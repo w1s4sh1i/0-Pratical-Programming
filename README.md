@@ -9,7 +9,9 @@ Learning Programming Languages
 > Competitive Programming
 
   [ ] Update Beecrowd folder;
+  
     A. 100 programming codes;
+    
   [ ] Update HackerRank folder;
 
   [ ] Update CodeWars folder;  
