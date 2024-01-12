@@ -10,7 +10,7 @@ Learning Programming Languages
 
   [ ] Update Beecrowd folder;
   
-    A. 100 programming codes;
+    A. 100 codes programming;
     
   [ ] Update HackerRank folder;
 
