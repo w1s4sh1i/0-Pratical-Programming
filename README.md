@@ -5,6 +5,7 @@ Learning Programming Languages
 > Git
 
   [ ] Command and advanced tips;
+  
   [ ] Practices;
 
 > Competitive Programming
