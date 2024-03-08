@@ -3,7 +3,9 @@
 
 Learning Programming Languages
 > Git
-
+ 
+  [ ] Define Development platform;
+  
   [ ] Command and advanced tips;
   
   [ ] Practices;
