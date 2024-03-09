@@ -14,14 +14,12 @@ Learning Programming Languages
 
  - [ ] Update Beecrowd folder;
 
+```graphql
 ./Beecrowd/*
-
   ├─ Beecrowdc/C - # Is coming 
-
   ├─ Beecrowdc/Cpp
-  
   └─ Beecrowdc/Python
-  
+ ``` 
     A. 100 programming codes;
     B. 200 programming codes;
     
