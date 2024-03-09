@@ -1,22 +1,27 @@
 # 0-Pratical-Programming
-[ ] Add directory description
+- [ ] Add directory description
 
 Learning Programming Languages
 > Git
  
-  [ ] Define Development platform;
+ - [ ] Define Development platform;
   
-  [ ] Command and advanced tips;
+ - [ ] Command and advanced tips;
   
-  [ ] Practices;
+ - [ ] Practices;
 
 > Competitive Programming
 
-  [ ] Update Beecrowd folder;
+ - [ ] Update Beecrowd folder;
+
+./Beecrowd/* 
+  ├─ Beecrowdc/C - # Is coming 
+  ├─ Beecrowdc/Cpp
+  └─ Beecrowdc/Python
   
     A. 100 programming codes;
     B. 200 programming codes;
     
-  [ ] Update HackerRank folder;
+ - [ ] Update HackerRank folder;
 
-  [ ] Update CodeWars folder;  
+ - [ ] Update CodeWars folder;  
