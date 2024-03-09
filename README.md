@@ -14,9 +14,12 @@ Learning Programming Languages
 
  - [ ] Update Beecrowd folder;
 
-./Beecrowd/* 
+./Beecrowd/*
+
   ├─ Beecrowdc/C - # Is coming 
+
   ├─ Beecrowdc/Cpp
+  
   └─ Beecrowdc/Python
   
     A. 100 programming codes;
