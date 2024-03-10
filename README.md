@@ -16,9 +16,11 @@ Learning Programming Languages
 
 ```graphql
 ./Beecrowd/*
-  ├─ Beecrowd/C - # Is coming 
+  ├─ Beecrowd/C     # Is coming 
   ├─ Beecrowd/Cpp
-  └─ Beecrowd/Python
+  ├─ Beecrowd/Julia # Is coming
+  ├─ Beecrowd/Python
+  └─ Beecrowd/Rust  # Is coming 
  ``` 
     A. 100 programming codes;
     B. 200 programming codes;
