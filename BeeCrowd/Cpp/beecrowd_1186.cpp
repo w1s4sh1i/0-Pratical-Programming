@@ -17,7 +17,7 @@ int main() {
     }
   }
 
-  printf("%.1lf\n", (tag == 'M') ? add / count : add);
+  printf("%.1lf\n", (tag == 'S') ? add : add / count);
 
   return 0;
 }

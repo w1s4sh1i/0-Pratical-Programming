@@ -1,5 +1,4 @@
-add, count = 0, 0
-tag = input()
+add, count, tag = 0, 0, input()
 
 for lin in range(12):
     for col in range(12):
@@ -8,4 +7,4 @@ for lin in range(12):
             add += n
             count += 1
 
-print('%.1f' %(add/count if tag == 'M' else add) )
+print('%.1f' %(add/count if tag == 'M' else add))
